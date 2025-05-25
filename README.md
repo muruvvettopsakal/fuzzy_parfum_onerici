@@ -20,5 +20,7 @@ Tkinter ile kullanıcı dostu bir arayüz sunar.
 
 ```bash
 python -m pip install -r requirements.txt
+![Parfüm Önerici Arayüzü](images/Screenshot_116.png)
+![Parfüm Önerici Arayüzü](images/Screenshot_117.png)
 
 
