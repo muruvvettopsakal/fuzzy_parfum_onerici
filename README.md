@@ -16,10 +16,10 @@ Bu proje, kullanıcının duygusal durumu ve çevresel faktörlere göre uygun p
 ## 📸 Arayüz Görselleri
 
 ### Ana Arayüz
-![Arayüz](images/Screenshot_116.png)
+![Arayüz](Screenshot_116.png)
 
 ### Sonuç Ekranı
-![Sonuç](images/Screenshot_117.png)
+![Sonuç](Screenshot_117.png)
 
 ---
 
