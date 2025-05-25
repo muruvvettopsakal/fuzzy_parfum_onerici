@@ -21,5 +21,4 @@ Tkinter ile kullanıcı dostu bir arayüz sunar.
 ```bash
 python -m pip install -r requirements.txt
 
-<img width="299" alt="Screenshot_116" src="https://github.com/user-attachments/assets/4479de46-e3ee-43a1-b5d6-20658c89bb67" />
-<img width="300" alt="Screenshot_117" src="https://github.com/user-attachments/assets/cce1f62d-f62e-4d3a-8b7b-5f5fc6d999e0" />
+
